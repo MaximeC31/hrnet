@@ -1,6 +1,6 @@
 # HRnet
 
-Application web de gestion des employés développée avec React et Vite, permettant de visualiser et gérer les données des employés de manière efficace.
+Application React de création et de consultation d’employés, avec stockage local et composant de tableau publié sur npm.
 
 ## Comment le démarrer
 
